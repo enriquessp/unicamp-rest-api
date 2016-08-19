@@ -1,0 +1,37 @@
+Participantes: Paulo Enrique Pereira
+
+Projeto implementado: Comida de boteco
+
+URL de acesso: https://comida-boteco-140717.appspot.com
+
+Código fonte disponível no Github. Junto com ele está um projeto Soapui para testes da API.
+Página: https://github.com/enriquessp/comida-boteco
+Clone: git clone https://github.com/enriquessp/comida-boteco.git
+Projeto Soapui: ComidaBoteco-soapui-project.xml
+
+Estrutura do JSON: Para poder fazer um POST
+{
+	"id": 2,
+	"razaoSocial": "Boteco da esquina",	
+	"endereco": "Rua da esquina, 889",	
+	"telefone": "11 3245-8774"
+}
+
+Sugestão de testes: 
+
+  Incusão de restaurante 
+  POST: 
+
+  Atualização de restaurante
+  PUT: 
+
+  Busca por restaurantes
+  GET: 
+
+  Busca por um restaurante: 
+  GET: 
+
+  Exclusão de um restaurante: 
+  GET: 
+
+
